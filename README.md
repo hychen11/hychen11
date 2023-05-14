@@ -1,16 +1,21 @@
-### Hi there 👋
+💬 Hi, I’m hychen
+Incoming student of DUEK MS ECE.
 
-<!--
-**hychen11/hychen11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+B.E. ECE in Zhejiang University.
 
-Here are some ideas to get you started:
+🌱 I’m currently learning
+ MIT 6.006 Algorithm
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ UCB CS61B Data Structures, Fall 2022
+
+ MIT 6.S081 Operating System Engineering, Fall 2022
+
+ MIT 6.824 Distributed Systems, Fall 2022
+
+ CMU 15-445 Intro to Database Systems, Fall 2022
+
+ CMU 15-213 Computer Organization/Architecture, Fall 2022
+
+🤔 in building now！
+📫 How to reach me ...
+My email is zjuchy1 at gmail dot com
