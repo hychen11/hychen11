@@ -1,6 +1,6 @@
 ### 💬 Hi, I’m hychen
 
-Incoming student of DUEK MS ECE.
+<!-- Incoming student of DUEK MS ECE. -->
 
 B.E. ECE in Zhejiang University. 
 
