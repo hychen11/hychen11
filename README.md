@@ -10,6 +10,8 @@ B.E. ECE in Zhejiang University.
 
 - [ ] ~~MIT 6.006 Algorithm~~
 
+- [ ] STF CS144 Computer Network, Spring 2023 (Lab1) 
+
 - [ ] UCB CS61B [Data Structures](https://fa22.datastructur.es/), Fall 2022
 
 - [ ] MIT 6.S081 Operating System Engineering, Fall 2022
