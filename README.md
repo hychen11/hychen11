@@ -10,15 +10,15 @@ B.E. ECE in Zhejiang University.
 
 - [ ] ~~MIT 6.006 Algorithm~~
 
-- [ ] STF CS144 Computer Network, Spring 2023 (Lab1) 
+- [ ] CS144 Computer Network, Spring 2023 (Lab1 finished) 
 
 - [ ] UCB CS61B [Data Structures](https://fa22.datastructur.es/), Fall 2022
 
-- [ ] MIT 6.S081 Operating System Engineering, Fall 2022
+- [ ] MIT 6.S081 Operating System Engineering, Fall 2022(Lab1 finished) 
 
 - [ ] MIT 6.824 Distributed Systems, Fall 2022 
 
-- [ ] CMU 15-445 [Intro to Database Systems](https://15445.courses.cs.cmu.edu/fall2022/), Fall 2022 
+- [ ] CMU 15-445 [Intro to Database Systems](https://15445.courses.cs.cmu.edu/fall2022/), Fall 2022 (Lab1 finished) 
 
 - [ ] CMU 15-213 Computer Organization/Architecture, Fall 2022 
 
