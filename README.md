@@ -16,7 +16,7 @@ B.E. ECE in Zhejiang University.
 
 - [ ] MIT 6.S081 Operating System Engineering, Fall 2022(Lab1 finished) 
 
-- [ ] MIT 6.824 Distributed Systems, Fall 2022 
+- [ ] MIT 6.824 Distributed Systems, Spring 2022 
 
 - [ ] CMU 15-445 [Intro to Database Systems](https://15445.courses.cs.cmu.edu/fall2022/), Fall 2022 (Lab2 ing) 
 
