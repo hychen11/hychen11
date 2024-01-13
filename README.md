@@ -8,11 +8,11 @@ B.E. ECE in Zhejiang University.
 
 ### 🌱 I’m currently learning
 
-- [ ] CS144 Computer Network, Spring 2023 (Lab1 finished) 
+- [ ] CS144 Computer Network, Spring 2023 (Lab2 ing) 
 
-- [ ] MIT 6.S081 Operating System Engineering, Fall 2022(Lab2 finished) 
+- [ ] MIT 6.S081 Operating System Engineering, Fall 2022(Lab3 ing) 
 
-- [ ] MIT 6.824 Distributed Systems, Spring 2022 
+- [ ] MIT 6.824 Distributed Systems, Spring 2022 (Lab1 ing) 
 
 - [ ] CMU 15-445 [Intro to Database Systems](https://15445.courses.cs.cmu.edu/fall2022/), Fall 2022 (Lab2 ing) 
 
