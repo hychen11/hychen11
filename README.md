@@ -10,7 +10,7 @@ B.E. ECE in Zhejiang University.
 
 - [ ] CS144 Computer Network, Spring 2023 (Lab2 ing) 
 
-- [ ] MIT 6.S081 Operating System Engineering, Fall 2022(Lab8 ing) 
+- [ ] MIT 6.S081 Operating System Engineering, Fall 2022(Lab10 ing) 
 
 - [ ] MIT 6.824 Distributed Systems, Spring 2022 (Lab1 ing) 
 
