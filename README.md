@@ -11,7 +11,7 @@ B.E. ECE in Zhejiang University.
 
 - [ ] [CS144 Computer Network](https://cs144.github.io/), Spring 2023 (Lab2 ing) 
 
-- [ ] [MIT 6.824 Distributed Systems](https://pdos.csail.mit.edu/6.824/schedule.html), Spring 2024 (Lab1 ing) 
+- [ ] [MIT 6.8540 Distributed Systems](https://pdos.csail.mit.edu/6.824/schedule.html), Spring 2024 (Lab1 ing) 
 
 - [ ] [CMU 15-445 Intro to Database Systems](https://15445.courses.cs.cmu.edu/fall2022/), Fall 2022 (Lab2 P1 ing) 
 
