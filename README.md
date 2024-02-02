@@ -9,7 +9,7 @@ B.E. ECE in Zhejiang University.
 ### 🌱 I’m currently learning
 - [X] [MIT 6.1810 Operating System Engineering](https://pdos.csail.mit.edu/6.828/2022/schedule.html), Fall 2022 (Finished and Reviewing) 
 
-- [ ] [CS144 Computer Network](https://cs144.github.io/), Winter 2024 (Lab4 ing) 
+- [ ] [CS144 Computer Network](https://cs144.github.io/), Winter 2024 (Lab4 waiting release) 
 
 - [ ] [MIT 6.8540 Distributed Systems](https://pdos.csail.mit.edu/6.824/schedule.html), Spring 2024 (Lab1 ing) 
 
