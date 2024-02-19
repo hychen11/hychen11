@@ -13,7 +13,7 @@ B.E. ECE in Zhejiang University.
 
 - [ ] [MIT 6.8540 Distributed Systems](https://pdos.csail.mit.edu/6.824/schedule.html), Spring 2024 (Lab1 ing) 
 
-- [ ] [CMU 15-445 Intro to Database Systems](https://15445.courses.cs.cmu.edu/fall2022/), Fall 2022 (Lab2 ing) 
+- [ ] [CMU 15-445 Intro to Database Systems](https://15445.courses.cs.cmu.edu/fall2022/), Fall 2022 (Lab3 ing) 
 
 <!-- * CMU 15-418 Parallel Computer Architecture and Programming -->
 <!-- Stanford CS144 Introduction to Computer Networking, Fall 2021 (link to my project report) -->
