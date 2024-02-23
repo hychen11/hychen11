@@ -9,11 +9,12 @@ B.E. ECE in Zhejiang University.
 ### 🌱 I’m currently learning
 - [X] [MIT 6.1810 Operating System Engineering](https://pdos.csail.mit.edu/6.828/2022/schedule.html), Fall 2022 (Finished and Reviewing) 
 
-- [X] [CS144 Computer Network](https://cs144.github.io/), Spring 2023 (Finished and Reviewing) 
+- [X] [CS144 Computer Network](https://cs144.github.io/), Spring 2023 (Finished and Reviewing)
+
+- [ ] [CMU 15-445 Intro to Database Systems](https://15445.courses.cs.cmu.edu/fall2022/), Fall 2022 (Lab4 ing) 
 
 - [ ] [MIT 6.8540 Distributed Systems](https://pdos.csail.mit.edu/6.824/schedule.html), Spring 2024 (Lab1 ing) 
 
-- [ ] [CMU 15-445 Intro to Database Systems](https://15445.courses.cs.cmu.edu/fall2022/), Fall 2022 (Lab3 ing) 
 
 <!-- * CMU 15-418 Parallel Computer Architecture and Programming -->
 <!-- Stanford CS144 Introduction to Computer Networking, Fall 2021 (link to my project report) -->
