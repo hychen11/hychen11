@@ -11,9 +11,11 @@ B.E. ECE in Zhejiang University.
 
 - [X] [CS144 Computer Network](https://cs144.github.io/), Spring 2023 (Finished and Reviewing)
 
-- [ ] [CMU 15-445 Intro to Database Systems](https://15445.courses.cs.cmu.edu/fall2022/), Fall 2022 (Lab4 ing) 
+- [X] [CMU 15-445 Intro to Database Systems](https://15445.courses.cs.cmu.edu/fall2022/), Fall 2022 (Finished and Reviewing, LeaderBoard not finish yet) 
 
 - [ ] [MIT 6.8540 Distributed Systems](https://pdos.csail.mit.edu/6.824/schedule.html), Spring 2024 (Lab1 ing) 
+
+- [ ] [CMU 15-213 Introduction to Computer Systems (ICS)](https://www.cs.cmu.edu/afs/cs.cmu.edu/academic/class/15213-f22/www/), Fall 2022 (Bootcamping)
 
 
 <!-- * CMU 15-418 Parallel Computer Architecture and Programming -->
