@@ -15,7 +15,7 @@ B.E. ECE in Zhejiang University.
 
 - [ ] [MIT 6.8540 Distributed Systems](https://pdos.csail.mit.edu/6.824/schedule.html), Spring 2024 (Lab4A ing，total 5Lab) 
 
-- [ ] [CMU 15-213 Introduction to Computer Systems (ICS)](https://www.cs.cmu.edu/afs/cs.cmu.edu/academic/class/15213-f22/www/), Fall 2022 (Bootcamping)
+- [ ] [CMU 15-213 Introduction to Computer Systems (ICS)](https://www.cs.cmu.edu/afs/cs.cmu.edu/academic/class/15213-f22/www/), Fall 2022 (Data Labing)
 
 
 <!-- * CMU 15-418 Parallel Computer Architecture and Programming -->
