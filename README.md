@@ -10,9 +10,9 @@ Incoming MEng ECE in UIUC(24 fall)
 
 ### 🔭 I’m currently working on
  
- - [ ]Gee (modified Gin Skeleton in Golang)
+ - [ ] Gee (modified Gin Skeleton in Golang)
    
- - [ ]Tiny webserver (C++) 
+ - [ ] Tiny webserver (C++) 
 
 ### 🌱 I’m currently learning
 - [X] [MIT 6.1810 Operating System Engineering](https://pdos.csail.mit.edu/6.828/2022/schedule.html), Fall 2022 (Finished and Reviewing) 
