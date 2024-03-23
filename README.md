@@ -4,7 +4,15 @@
 
 B.E. ECE in Zhejiang University. 
 
-and incoming MEng ECE in UIUC(24 fall)
+Incoming MEng ECE in UIUC(24 fall)
+
+**I am actively looking for 2024 summer interns in the US and China.**
+
+### 🔭 I’m currently working on
+ 
+ - [ ]Gee (modified Gin Skeleton in Golang)
+   
+ - [ ]Tiny webserver (C++) 
 
 ### 🌱 I’m currently learning
 - [X] [MIT 6.1810 Operating System Engineering](https://pdos.csail.mit.edu/6.828/2022/schedule.html), Fall 2022 (Finished and Reviewing) 
@@ -15,12 +23,20 @@ and incoming MEng ECE in UIUC(24 fall)
 
 - [ ] [MIT 6.8540 Distributed Systems](https://pdos.csail.mit.edu/6.824/schedule.html), Spring 2024 (Lab4A ing，total 5Lab) 
 
-- [ ] [CMU 15-213 Introduction to Computer Systems (ICS)](https://www.cs.cmu.edu/afs/cs.cmu.edu/academic/class/15213-f22/www/), Fall 2022 (Data Labing)
+- [ ] [CMU 15-213 Introduction to Computer Systems (ICS)](https://www.cs.cmu.edu/afs/cs.cmu.edu/academic/class/15213-f22/www/), Fall 2022 (BootCamping)
 
 
-<!-- * CMU 15-418 Parallel Computer Architecture and Programming -->
-<!-- Stanford CS144 Introduction to Computer Networking, Fall 2021 (link to my project report) -->
-<!-- 🌱 My learning pathway -->
+### ⚡ My learning pathway
+
+Credits from ZJU:
+
+- Fundamentals of C Programming and Lectures on Programming
+
+- Fundamentals of Data Structures and Advanced Data Structures & Algorithm Analysis
+
+- The Fundamentals of Digital System and Computer Organization and Design
+
+- Operating Systems and Introduction to Computer Networks
 
 ### 🤔 in building now！
 
