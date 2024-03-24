@@ -6,6 +6,8 @@ B.E. ECE in Zhejiang University.
 
 Incoming MEng ECE in UIUC(24 fall)
 
+[Leetcode Contest:2032](https://leetcode.com/hychen11/)
+
 **I am actively looking for 2024 summer interns in the US and China.**
 
 ### 🔭 I’m currently working on
@@ -15,6 +17,7 @@ Incoming MEng ECE in UIUC(24 fall)
  - [ ] Tiny webserver (C++) 
 
 ### 🌱 I’m currently learning
+
 - [X] [MIT 6.1810 Operating System Engineering](https://pdos.csail.mit.edu/6.828/2022/schedule.html), Fall 2022 (Finished and Reviewing) 
 
 - [X] [CS144 Computer Network](https://cs144.github.io/), Spring 2023 (Finished and Reviewing)
