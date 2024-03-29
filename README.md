@@ -1,4 +1,4 @@
-### 💬 Hi, I’m hychen, [Resume](https://github.com/hychen11/Resume/blob/main/Resume_en.pdf)
+### 💬 Hi, I’m hychen, [Resume](https://github.com/hychen11/Intern/blob/main/Resume_en.pdf)
 
 <!-- Incoming student of DUEK MS ECE. -->
 
