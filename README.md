@@ -30,6 +30,8 @@ Leetcode Contest : 2051 https://leetcode.com/hychen11/
 
 
 ### ⚡ My learning pathway
+Research Experience:
+- [Nerf Scene Editing](https://github.com/hychen11/Latent-NeRF-Scene-Editing/), tutored by [Yiyi Liao](https://yiyiliao.github.io/)
 
 Credits from ZJU:
 
