@@ -28,7 +28,7 @@ Leetcode Contest : 2051 https://leetcode.com/hychen11/
 
 - [ ] [CMU 15-213 Introduction to Computer Systems (ICS)](https://www.cs.cmu.edu/afs/cs.cmu.edu/academic/class/15213-f22/www/), Fall 2022 (DataLab)
 
-- [ ] [CS 149 PARALLEL COMPUTING]([https://www.cs.cmu.edu/afs/cs.cmu.edu/academic/class/15213-f22/www/](https://gfxcourses.stanford.edu/cs149/fall23)), Fall 2023 (Lab1)
+- [ ] [CS 149 PARALLEL COMPUTING](https://gfxcourses.stanford.edu/cs149/fall23), Fall 2023 (Lab1)
 
 
 ### ⚡ My learning pathway
