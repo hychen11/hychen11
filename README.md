@@ -6,7 +6,7 @@ B.E. ECE in Zhejiang University.
 
 Incoming MEng ECE in UIUC(24 fall)
 
-Leetcode Contest : 2051 https://leetcode.com/hychen11/
+Leetcode Contest : 2037 https://leetcode.com/hychen11/
 
 **I am actively looking for 2024 summer interns in the US and China.**
 
