@@ -6,7 +6,7 @@ B.E. ECE in Zhejiang University.
 
 Incoming MEng ECE in UIUC(24 fall)
 
-Leetcode Contest : 2062 https://leetcode.com/hychen11/
+Leetcode Contest : 2032 https://leetcode.com/hychen11/
 
 **I am actively looking for 2024 summer interns in the US and China.**
 
@@ -26,7 +26,7 @@ Leetcode Contest : 2062 https://leetcode.com/hychen11/
 
 - [ ] [MIT 6.8540 Distributed Systems](https://pdos.csail.mit.edu/6.824/schedule.html), Spring 2024 (Lab4A ing，total 5Lab) 
 
-- [ ] [CMU 15-213 Introduction to Computer Systems (ICS)](https://www.cs.cmu.edu/afs/cs.cmu.edu/academic/class/15213-f22/www/), Fall 2022 (Attacklab)
+- [ ] [CMU 15-213 Introduction to Computer Systems (ICS)](https://www.cs.cmu.edu/afs/cs.cmu.edu/academic/class/15213-f22/www/), Fall 2022 (Proxylab)
 
 - [ ] [CS 149 PARALLEL COMPUTING](https://gfxcourses.stanford.edu/cs149/fall23), Fall 2023 (Lab1)
 
