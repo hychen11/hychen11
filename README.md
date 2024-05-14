@@ -34,7 +34,7 @@ Leetcode Contest : 2032 https://leetcode.com/hychen11/
 ### ⚡ My learning pathway
 Research Experience:
 - [Nerf Scene Editing](https://github.com/hychen11/Latent-NeRF-Scene-Editing/), tutored by [Yiyi Liao](https://yiyiliao.github.io/)
-
+<!--
 Credits from ZJU:
 
 - Fundamentals of C Programming and Lectures on Programming
@@ -44,7 +44,7 @@ Credits from ZJU:
 - The Fundamentals of Digital System and Computer Organization and Design
 
 - Operating Systems and Introduction to Computer Networks
-
+-->
 ### 🤔 in building now！
 
 <!-- 
