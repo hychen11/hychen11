@@ -10,11 +10,10 @@ Leetcode Contest : 2042 https://leetcode.com/hychen11/
 
 **I am actively looking for 2024 summer interns in the US and China.**
 
-### 🔭 I’m currently working on
+<!--### 🔭 I’m currently working on
  
  - [ ] Gee (modified Gin Skeleton in Golang)
-   
- - [ ] Tiny webserver (C++) 
+  -->
 
 ### 🌱 I’m currently learning
 
