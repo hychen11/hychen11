@@ -29,7 +29,7 @@ Incoming MEng ECE in UIUC(24 fall)
 
 - [ ] [CS 149 PARALLEL COMPUTING](https://gfxcourses.stanford.edu/cs149/fall23), Fall 2023 (Lab1)
 
-- [ ] [CS231N Deep Learning for Computer Vision](https://cs231n.stanford.edu/2023/schedule.html), Fall 2021 (target to finish in 6.15)
+<!-- - [ ] [CS231N Deep Learning for Computer Vision](https://cs231n.stanford.edu/2023/schedule.html), Fall 2021 (target to finish in 6.15) -->
 
 ### ⚡ My learning pathway
 Research Experience:
