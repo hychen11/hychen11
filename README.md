@@ -13,7 +13,11 @@ Incoming MEng ECE in UIUC(24 fall)
 ### 🔭 I’m also interested in
  - Machine Learning and System
  
- - 3D vision and reconstruction
+ - 3D Vision and Reconstruction
+
+ - Computer Architercure
+
+ - ...
 <!--### 🔭 I’m currently working on
  
  - [ ] Gee (modified Gin Skeleton in Golang)
