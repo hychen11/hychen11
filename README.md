@@ -15,13 +15,11 @@ Incoming MEng ECE in UIUC(24 fall)
  
  - 3D Vision and Reconstruction
 
- - Computer Architercure
 
  - ...
-<!--### 🔭 I’m currently working on
+### 🔭 I’m currently working on
  
  - [ ] Gee (modified Gin Skeleton in Golang)
-  -->
 
 ### 🌱 I’m currently learning
 
