@@ -35,9 +35,9 @@ Incoming MEng ECE in UIUC(24 fall)
 
 - [X] [CMU 15-213 Introduction to Computer Systems (ICS)](https://www.cs.cmu.edu/afs/cs.cmu.edu/academic/class/15213-f22/www/), Fall 2022 (Malloc Lab/Shell Lab unfinished, pending)
 
-- [ ] [CS 149 PARALLEL COMPUTING](https://gfxcourses.stanford.edu/cs149/fall23), Fall 2023 (Lab1)
+- [X] [CS231N Deep Learning for Computer Vision](https://cs231n.stanford.edu/2023/schedule.html), Fall 2021 (Finished and Reviewing)
 
-- [ ] [CS231N Deep Learning for Computer Vision](https://cs231n.stanford.edu/2023/schedule.html), Fall 2021 (assignment3 ing)
+- [ ] [CS 149 PARALLEL COMPUTING](https://gfxcourses.stanford.edu/cs149/fall23), Fall 2023 (Lab1)
 
 - [ ] [CMU 10-414/714: Deep Learning Systems](https://dlsyscourse.org/lectures/), Fall 2023 (hw2 ing)
 
