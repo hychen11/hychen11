@@ -4,7 +4,7 @@
 
 B.E. ECE in Zhejiang University. 
 
-Incoming MEng ECE in UIUC(24 fall)
+MEng ECE in UIUC(24 fall)
 
 <!--Leetcode Contest : 2042 https://leetcode.com/hychen11/-->
 
