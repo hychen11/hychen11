@@ -2,7 +2,7 @@
 
 <!-- Incoming student of DUEK MS ECE. -->
 
-B.E. ECE in Zhejiang University. 
+<!-- B.E. ECE in Zhejiang University. -->
 
 MEng ECE in UIUC(24 fall)
 
