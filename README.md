@@ -42,7 +42,7 @@ MEng ECE in UIUC(24 fall)
 
 ### ⚡ My learning pathway
 Research Experience:
-- [Nerf Scene Editing](https://github.com/hychen11/Latent-NeRF-Scene-Editing/), tutored by Yiyi Liao<!--- [Yiyi Liao](https://yiyiliao.github.io/)-->
+- [Nerf Scene Editing](https://github.com/hychen11/Latent-NeRF-Scene-Editing/), tutored by <!---[Yiyi Liao](https://yiyiliao.github.io/)-->
 <!--
 Credits from ZJU:
 
