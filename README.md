@@ -15,11 +15,14 @@ MEng ECE in UIUC(24 fall)
  
  - 3D Vision and Reconstruction
 
-
  - ...
 ### 🔭 I’m currently working on
  
  - [ ] Gee (modified Gin Skeleton in Golang, go web, go cache finished, go rpc and orm in processing)
+       
+ - [ ] ByteDance training camp (Backend)
+       
+ - [ ] MallSystem with microservice (Java, SpringBoot, SpringCloud, ...)
 
 ### 🌱 I’m currently learning
 
@@ -29,15 +32,13 @@ MEng ECE in UIUC(24 fall)
 
 - [X] [CMU 15-445 Intro to Database Systems](https://15445.courses.cs.cmu.edu/fall2022/), Fall 2022 (Finished and Reviewing, LeaderBoard not finish yet) 
 
-- [ ] [MIT 6.8540 Distributed Systems](https://pdos.csail.mit.edu/6.824/schedule.html), Spring 2024 (Lab4A ing，total 5Lab) 
+- [ ] [MIT 6.8540 Distributed Systems](https://pdos.csail.mit.edu/6.824/schedule.html), Spring 2024 (Lab4A pending and reviewing，total 5Lab) 
 
 - [X] [CMU 15-213 Introduction to Computer Systems (ICS)](https://www.cs.cmu.edu/afs/cs.cmu.edu/academic/class/15213-f22/www/), Fall 2022 (Malloc Lab/Shell Lab unfinished, pending)
 
 - [X] [CS231N Deep Learning for Computer Vision](https://cs231n.stanford.edu/2023/schedule.html), Fall 2021 (Finished and Reviewing)
 
-- [ ] [CS 149 PARALLEL COMPUTING](https://gfxcourses.stanford.edu/cs149/fall23), Fall 2023 (Lab1)
-
-- [ ] [CMU 10-414/714: Deep Learning Systems](https://dlsyscourse.org/lectures/), Fall 2023 (hw2 ing)
+<!-- - [ ] [CS 149 PARALLEL COMPUTING](https://gfxcourses.stanford.edu/cs149/fall23), Fall 2023 (Lab1)-->
 
 
 ### ⚡ My learning pathway
@@ -54,7 +55,11 @@ Credits from ZJU:
 
 - Operating Systems and Introduction to Computer Networks
 -->
-### 🤔 in building now！
+### 🤔 I want or plan to learn
+
+- [ ] [Natural Language Processing with Deep Learning](https://web.stanford.edu/class/cs224n/)
+
+- [ ] [CMU 10-414/714: Deep Learning Systems](https://dlsyscourse.org/lectures/), Fall 2023 
 
 <!-- 
 Systems and networks
