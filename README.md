@@ -19,7 +19,7 @@ MEng ECE in UIUC(24 fall)
  - ...
 ### 🔭 I’m currently working on
  
- - [X] Gee (modified Gin Skeleton in Golang)
+ - [ ] Gee (modified Gin Skeleton in Golang, go web, go cache finished, go rpc and orm in processing)
 
 ### 🌱 I’m currently learning
 
