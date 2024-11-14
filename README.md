@@ -35,7 +35,7 @@ MEng ECE in UIUC(24 fall)
 
 - [X] [CS231N Deep Learning for Computer Vision](https://cs231n.stanford.edu/2023/schedule.html), Fall 2021 (Finished and Reviewing)
 
-<!--- [ ] [CS 149 PARALLEL COMPUTING](https://gfxcourses.stanford.edu/cs149/fall23), Fall 2023 (Lab1)-->
+- [ ] [CS 149 PARALLEL COMPUTING](https://gfxcourses.stanford.edu/cs149/fall23), Fall 2023 (Lab1)
 
 - [ ] [CMU 10-414/714: Deep Learning Systems](https://dlsyscourse.org/lectures/), Fall 2023 (hw2 ing)
 
