@@ -32,7 +32,7 @@ MEng ECE in UIUC(24 fall)
 
 - [X] [CMU 15-445 Intro to Database Systems](https://15445.courses.cs.cmu.edu/fall2022/), Fall 2022 (Finished and Reviewing, LeaderBoard not finish yet) 
 
-- [ ] [MIT 6.8540 Distributed Systems](https://pdos.csail.mit.edu/6.824/schedule.html), Spring 2024 (Lab4A pending and reviewing，total 5Lab) 
+- [ ] [MIT 6.8540 Distributed Systems](https://pdos.csail.mit.edu/6.824/schedule.html), Spring 2024 (Lab4B ing，total 5Lab) 
 
 - [X] [CMU 15-213 Introduction to Computer Systems (ICS)](https://www.cs.cmu.edu/afs/cs.cmu.edu/academic/class/15213-f22/www/), Fall 2022 (Malloc Lab/Shell Lab unfinished, pending)
 
