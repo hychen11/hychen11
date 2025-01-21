@@ -20,9 +20,9 @@ MEng ECE in UIUC(24 fall)
  
  - [ ] Gee (modified Gin Skeleton in Golang, go web, go cache finished, go rpc and orm in processing)
        
- - [ ] ByteDance training camp (Backend)
+ - [ ] ByteDance training camp (Backend, go)
        
- - [ ] MallSystem with microservice (Java, SpringBoot, SpringCloud, ...)
+ - [ ] MallSystem with microservice (Java, SpringBoot, SpringCloud(Nacos), Mybatis, Redis, Mysql ...)
 
 ### 🌱 Learned courses
 
