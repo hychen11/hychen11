@@ -59,7 +59,9 @@ Credits from ZJU:
 
 - [ ] [Natural Language Processing with Deep Learning](https://web.stanford.edu/class/cs224n/)
 
-- [ ] [CMU 10-414/714: Deep Learning Systems](https://dlsyscourse.org/lectures/), Fall 2023 
+- [ ] [CMU 10-414/714: Deep Learning Systems](https://dlsyscourse.org/lectures/), Fall 2023
+
+- [ ] [15-442/15-642: Machine Learning Systems](https://mlsyscourse.org/schedule), Spring 2025
 
 <!-- 
 Systems and networks
