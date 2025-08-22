@@ -8,7 +8,7 @@ MEng ECE in UIUC(24 fall)
 
 <!--Leetcode Contest : 2042 https://leetcode.com/hychen11/-->
 
-**I am actively looking for 2025 summer interns in the US and China.**
+**I am actively looking for 2026 ng in the US and China. Contact me zjuchy1@gmail.com**
 
 ### 🔭 I’m also interested in
  - Machine Learning and System, AI infra
@@ -20,9 +20,11 @@ MEng ECE in UIUC(24 fall)
 
  - [ ] [CS 336 Language Modeling from Scratch](https://stanford-cs336.github.io/spring2025/), Spring 2025
 
-### 🌱 Learned Projects
+### 🌱 SDE Experience
+
+ - [X] ex-Java Backend Developer Intern at MeiTuan (Summer 2025)
        
- - [X] MallSystem with microservice (Java, SpringBoot, SpringCloud(Nacos), Mybatis, Redis, Mysql ...)
+ - [X] MallSystem with microservice (Java, SpringBoot, SpringCloud(Nacos), MybatisPlus, Redis, Mysql, Seata, RabbitMQ, Zikpin, Docker, k8s...)
 
 ### 🌱 Learned courses
 
