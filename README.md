@@ -11,16 +11,18 @@ MEng ECE in UIUC(24 fall)
 **I am actively looking for 2025 summer interns in the US and China.**
 
 ### 🔭 I’m also interested in
- - Machine Learning and System
- 
- - 3D Vision and Reconstruction
+ - Machine Learning and System, AI infra
+
+ - Large Language Model
 
  - ...
 ### 🔭 I’m currently working on
- 
- - [ ] Gee (modified Gin Skeleton in Golang, go web, go cache finished, go rpc and orm in processing)
+
+ - [ ] [CS 336 Language Modeling from Scratch](https://stanford-cs336.github.io/spring2025/), Spring 2025
+
+### 🌱 Learned Projects
        
- - [ ] MallSystem with microservice (Java, SpringBoot, SpringCloud(Nacos), Mybatis, Redis, Mysql ...)
+ - [X] MallSystem with microservice (Java, SpringBoot, SpringCloud(Nacos), Mybatis, Redis, Mysql ...)
 
 ### 🌱 Learned courses
 
@@ -54,8 +56,6 @@ Credits from ZJU:
 - Operating Systems and Introduction to Computer Networks
 -->
 ### 🤔 I want or plan to learn
-
-- [ ] [Natural Language Processing with Deep Learning](https://web.stanford.edu/class/cs224n/)
 
 - [ ] [CMU 10-414/714: Deep Learning Systems](https://dlsyscourse.org/lectures/), Fall 2023
 
