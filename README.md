@@ -24,7 +24,7 @@ MEng ECE in UIUC(24 fall)
 
  - [X] ex-Java Backend Developer Intern at MeiTuan (Summer 2025)
        
- - [X] MallSystem with microservice (Java, SpringBoot, SpringCloud(Nacos), MybatisPlus, Redis, Mysql, Seata, RabbitMQ, Zikpin, Docker, k8s...)
+ - [X] MallSystem with microservice (Java, SpringBoot, SpringCloud, MybatisPlus, Redis, Mysql, Seata, RabbitMQ, Zikpin, Docker...)
 
 ### 🌱 Learned courses
 
