@@ -29,6 +29,7 @@ MEng ECE in UIUC(24 fall)
  - [X] [HyDFS](https://github.com/hychen11/hydfs) (Hybrid File System) (build from scratch) 
 
 ### 🌱 Learned courses
+- [X] [UIUC CS 498 Machine Learning System], Spring 2025
 
 - [X] [MIT 6.1810 Operating System Engineering](https://pdos.csail.mit.edu/6.828/2022/schedule.html), Fall 2022 (Finished and Reviewing) 
 
