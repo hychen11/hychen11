@@ -99,9 +99,9 @@ My extra-curricular projects:
 <!-- 💞️ I’m looking to collaborate on ...
 N/A (I'll update this section in the future😄) -->
 
-### 📫 How to reach me ...
+<!--### 📫 How to reach me ...
 
-My email is zjuchy1 at gmail dot com
+My email is zjuchy1 at gmail dot com-->
 
 <!--
 **THE-WORLD0/THE-WORLD0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
