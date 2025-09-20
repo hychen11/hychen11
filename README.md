@@ -26,7 +26,7 @@ MEng ECE in UIUC(24 fall)
        
  - [X] [MallSystem](https://github.com/hychen11/gulimall) (Java, SpringBoot, SpringCloud, MybatisPlus, Redis, Mysql, Seata, RabbitMQ, Zikpin, Docker...)
 
- - [X] [HyDFS](https://github.com/hychen11/hydfs) (Hybrid File System) (build from scratch) 
+ - [X] [HyDFS](https://github.com/hychen11/hydfs) (Hybrid Distributed File System) (build from scratch) 
 
 ### 🌱 Learned courses
 - [X] [UIUC CS 498 Machine Learning System], Spring 2025
